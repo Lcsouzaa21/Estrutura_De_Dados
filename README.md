@@ -1,1 +1,1 @@
-Atividades de Estruturasa de Dados
+Atividades de Estrutura de Dados
